@@ -1,9 +1,11 @@
 Package: laborBR
 Version: 0.0.0.9000
-Title: What the Package Does (one line, title case)
+Title: Downloads and Manipulate Brazilian Labor Data
 Description: What the package does (one paragraph).
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
+Authors@R: person("José", "de Jesus Filho", email = "jjesusfilho@gmail.com", role = c("aut", "cre"))
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 ByteCompile: true
+URL: https://github.com/jjesusfilho/laborBR
+BugReports: https://github.com/jjesusfilho/laborBR/issues
